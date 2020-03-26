@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>MY CV</title>
+  <title>Gao Hanyu</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-25T12:00:55.422Z</updated>
+  <updated>2020-03-26T06:02:32.818Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,24 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Gao Hanyu&#39;s  CV</title>
-    <link href="http://yoursite.com/passages/CV/"/>
-    <id>http://yoursite.com/passages/CV/</id>
-    <published>2020-03-24T18:48:32.000Z</published>
-    <updated>2020-03-25T12:00:55.422Z</updated>
-    
-    <content type="html"><![CDATA[<p align="right">Email: gaohanyu.work@gmail.com</p><p align="right">Phone: +86-18520471360</p><hr><h1 id="EDUCATION"><a href="#EDUCATION" class="headerlink" title="EDUCATION"></a>EDUCATION</h1><h4 id="Chongqing-Jiaotong-University-09-2009-06-2013"><a href="#Chongqing-Jiaotong-University-09-2009-06-2013" class="headerlink" title="Chongqing Jiaotong University                                                                                                  09.2009-06.2013"></a><a href="http://www.cqjtu.com/English_Version.htm" target="_blank" rel="noopener">Chongqing Jiaotong University</a>                                                                                                  09.2009-06.2013</h4><ul><li><strong>Major</strong>: Business Administration (Bachelor of Management)</li><li><strong>Honors &amp; Awards:</strong> Outstanding performance in artistic and cultural activities 2009-2010</li></ul><hr><h1 id="WORK-EXPERIENCE"><a href="#WORK-EXPERIENCE" class="headerlink" title="WORK EXPERIENCE"></a>WORK EXPERIENCE</h1><h4 id="Joyrun-Co-Ltd"><a href="#Joyrun-Co-Ltd" class="headerlink" title="Joyrun Co., Ltd."></a>Joyrun Co., Ltd.</h4><blockquote><p><strong>Senior Product Manager</strong> 06.2017-Present</p><ul><li>Analyzed the demands of business partners, users, and operation and product teams</li><li>Wrote PRD documents, promoted R&amp;D implementation, observed data, and evaluated results</li><li>Reconstructed the module of the Joyrun app and launched v4.0</li><li>Reconstructed the social relationship and content distribution mechanism of the Joyrun app and launched v4.7</li><li>Provided routine maintenance and improvement for v4.1-v5.0</li><li>Increased the number of daily active users of the Joyrun app by 5%</li></ul></blockquote><h4 id="Guangzhou-Sponia-Technology-Co-Ltd"><a href="#Guangzhou-Sponia-Technology-Co-Ltd" class="headerlink" title="Guangzhou Sponia Technology Co., Ltd."></a>Guangzhou Sponia Technology Co., Ltd.</h4><blockquote><p><strong>Product Manager</strong> 06.2014-02.2017</p><ul><li>Established OpenPlay project from scratch to a company supplying soccer data for 100+ customers among 8 cities, and set the highest standard of statistic data for Chinese amateur football games</li><li>Built up the industry’s first data collecting software and methodology of OpenPlay, providing comprehensive soccer data live with the lowest price</li><li>Participated in the design of backend/admin tools on web platforms, helped OpenPlay operation team manage the database, and increased the accuracy of distributed data from 86% to 92% (world top accuracy rate is 98% for professional football games)</li><li>OpenPlay topped the market share in 5 months as the earliest and most credible soccer data provider in China</li></ul></blockquote><h4 id="ChongQing-Suntel-Technology-Co-Ltd"><a href="#ChongQing-Suntel-Technology-Co-Ltd" class="headerlink" title="ChongQing Suntel Technology Co, Ltd."></a>ChongQing Suntel Technology Co, Ltd.</h4><blockquote><p><strong>Product Manager</strong> 06.2013-06.2014</p><ul><li>Worked with 1 visual designer and 2 developers on the development of 365call apps for iOS and Android</li><li>Raised innovative ideas and improvement plans, conducted user research, demand analysis, interactive design</li><li>Designed and managed all features of 365call apps, including SIP call, V-P call, dial page, contact page, in-app purchase fare, activity page for voucher and advertising</li><li>Improved the app user experience and revenue, increased daily active users by 142% and user rate of recharging at first day from 9% to 17%</li></ul></blockquote><h2 id="Zhihu-com"><a href="#Zhihu-com" class="headerlink" title="Zhihu.com"></a>Zhihu.com</h2><blockquote><p>Product Operation Assistant    12.2011-06.2013</p><ul><li>Worked in the Operation Team at Zhihu, the biggest knowledge market in China with 100m+ users to ask and answer questions of various fields</li></ul><p><strong>Operation</strong></p><ul><li>Evaluated the daily new content of Books/Movies/Music topics, proposed best answers, and submitted Potential Power Users list</li><li>Motivated the users to ask, answer and connect more in the community</li><li>Forwarded good answers on Zhihu WeChat official account from August to October and Renren official account from October to December</li></ul><p><strong>Marketing</strong></p><ul><li>Implemented channel development and advertising, planed and promoted the marketing activities</li><li>Responsible for Zhihu iOS app promotions, with v2.0 ranked 1st (from 63rd) in social networking category and v2.0.5 earning the highest downloads of the year</li><li>Researched the app data derived from iTunes Connect, API and Google Analytics, and composed the weekly research reports; proposed a data tracking platform for Zhihu and designed the prototype</li></ul><p><strong>Branding</strong></p><ul><li>Dealt with business competitors, arranged cooperative activities, and achieved resource exchange</li></ul></blockquote><hr><h1 id="EXTRACURRICULAR-ACTIVITIES"><a href="#EXTRACURRICULAR-ACTIVITIES" class="headerlink" title="EXTRACURRICULAR ACTIVITIES"></a>EXTRACURRICULAR ACTIVITIES</h1><p>Broadcasting Station, Chongqing Jiaotong University        English Music Program Host     09.2009-06.2012</p><ul><li>Introduced popular musicians and albums on Billboard every Sunday, and had some free talks with the guests</li><li>Monitored and rated one other program each week</li></ul><hr><h1 id="SKILLS-amp-INTERESTS"><a href="#SKILLS-amp-INTERESTS" class="headerlink" title="SKILLS &amp; INTERESTS"></a>SKILLS &amp; INTERESTS</h1><p><strong>Softwares:</strong> Proficient in Phabricator (Facebook), Slack, Basecamp, and Jira<br><strong>Electronic Keyboard:</strong> Amateur Grade 10 (highest level for mateurs)<br><strong>Host</strong> of various events, speech/recital contest champion</p>]]></content>
+    <title>About Me</title>
+    <link href="http://yoursite.com/passages/About-Me/"/>
+    <id>http://yoursite.com/passages/About-Me/</id>
+    <published>2020-03-26T06:02:32.000Z</published>
+    <updated>2020-03-26T06:02:32.818Z</updated>
     
     <summary type="html">
-    
-      
-      
-        &lt;p align=&quot;right&quot;&gt;Email: gaohanyu.work@gmail.com&lt;/p&gt;
-&lt;p align=&quot;right&quot;&gt;Phone: +86-18520471360&lt;/p&gt;
-
-&lt;hr&gt;
-&lt;h1 id=&quot;EDUCATION&quot;&gt;&lt;a href=&quot;#EDUCATION
-      
     
     </summary>
     
