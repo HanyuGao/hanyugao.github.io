@@ -2,23 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/Projects/index.html</loc>
-    
-    <lastmod>2020-03-26T06:05:28.266Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/passages/About-Me/</loc>
     
     <lastmod>2020-03-26T06:02:32.818Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/CV/index.html</loc>
-    
-    <lastmod>2020-03-26T06:01:05.642Z</lastmod>
     
   </url>
   
